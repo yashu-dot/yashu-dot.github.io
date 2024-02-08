@@ -167,7 +167,7 @@ nav i {
 
 main {
   /*background: url(../../assets/img/bg.png) repeat;*/
-  background: url(../../assets/img/background.jpg) repeat;
+  background: radial-gradient(black,teal) repeat;
   padding-left: 190px;
 }
 
@@ -273,7 +273,7 @@ h3 {
 }
 
 #intro.section .container {
-  color: white;
+  color: #a7ffeb;
   font-weight: 200;
   left: 0;
   position: absolute;
