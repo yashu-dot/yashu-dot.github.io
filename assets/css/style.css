@@ -51,9 +51,9 @@
   color: #0077b5;
 }
 
-.angellist {
+/* .angellist {
   color: grey;
-}
+} */
 
 .icon-btn:hover {
   transform: scale(1.10);
@@ -64,9 +64,9 @@
   background-color: #0077b5;
 }
 
-.angellist:hover {
+/* .angellist:hover {
   background-color: grey;
-}
+} */
 
 .github:hover {
   background-color: black;
@@ -289,7 +289,7 @@ h3 {
   /* font-weight: 400; */
   line-height: 150%;
   /* padding: 0 0px; */
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  /* text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); */
 }
 
 #intro.section .underline {
@@ -385,7 +385,7 @@ h3 {
   line-height: 200%;
   list-style-type: disc;
   margin-left: 24px;
-  font-size: 10px;
+  font-size: 14px;
   text-align: justify";
 }
 
