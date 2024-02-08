@@ -150,7 +150,7 @@ blockquote * {
 
 nav {
   background: teal;
-  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 1px 5px teal;
   height: 0;
 }
 
@@ -168,7 +168,7 @@ main {
   /*background: url(../../assets/img/bg.png) repeat;*/
   background: url(../../assets/img/background.jpg) repeat;
   width: 100%;
-  height: auto;
+  height: 100%;
   background-size: cover;
   padding-left: 190px;
 }
