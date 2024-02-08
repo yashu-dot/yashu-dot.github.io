@@ -149,8 +149,8 @@ blockquote * {
 
 
 nav {
-  background: teal;
-  box-shadow: 1px 1px 5px teal;
+  /* background: teal;
+  box-shadow: 1px 1px 5px teal; */
   height: 0;
 }
 
