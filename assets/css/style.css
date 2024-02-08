@@ -167,7 +167,7 @@ nav i {
 
 main {
   /*background: url(../../assets/img/bg.png) repeat;*/
-  background: black repeat;
+  background: url(../../assets/img/background.jpg) repeat;
   padding-left: 190px;
 }
 
