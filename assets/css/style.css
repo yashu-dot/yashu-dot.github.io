@@ -128,31 +128,13 @@ body {
   font-size: 18px;
 }
 
-/* body {
-  color: black;
-  font-size: 18px;
-} */
 
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
 
 a {
   color: #004d40;
 }
 
-/* main blockqoute */
 
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
 
 blockquote {
   border-left: 5px solid #795548;
@@ -172,7 +154,6 @@ blockquote * {
   text-align: center;
 }
 
-/* main nav */
 
 nav {
   background: white;
@@ -180,11 +161,6 @@ nav {
   height: 0;
 }
 
-/* nav {
-  background: rgb(149, 126, 212);
-  box-shadow: none;
-  height: 0;
-} */
 
 nav i {
   padding: 0 15px;
@@ -194,10 +170,6 @@ nav i {
 
 /* main */
 
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
 
 main {
   background: url(../../assets/img/bg.png) repeat;
@@ -299,10 +271,6 @@ h3 {
 
 /* Original */
 
-/* #intro.section {
-  background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
-  position: relative;
-} */
 
 #intro.section {
   background: #a7ffeb repeat;
@@ -418,6 +386,7 @@ h3 {
   line-height: 200%;
   list-style-type: disc;
   margin-left: 24px;
+  font-size: 10px;
 }
 
 .card ul li li {
@@ -426,7 +395,7 @@ h3 {
 }
 
 .card .card-title {
-  font-size: 22px;
+  font-size: 20px;
   font-family: 'Times New Roman';
 }
 
