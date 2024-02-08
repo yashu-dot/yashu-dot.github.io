@@ -345,6 +345,7 @@ h3 {
 
 .card .card-content p {
   padding: 5px 0 0;
+  font-size: 15px;
 }
 
 .card h5 {
@@ -617,7 +618,7 @@ small {
     line-height: 24px;
   }
   .card .card-reveal ul li {
-    font-size: 12px;
+    font-size: 11px;
     text-align: justify;
   }
   #experience span.card-title {
