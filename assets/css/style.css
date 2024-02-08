@@ -495,22 +495,14 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: whitesmoke !important;
 }
 
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
-
-/* .teal */
 
 .teal {
-  background-color: #070707 !important;
+  background-color: #008073 !important;
 }
 
-/* .teal {
-  background-color: #00695c !important;
-} */
 
 @media (min-width: 1200px) {
   #experience .container {
